@@ -1,6 +1,6 @@
 # McDonald's Near Me
 
-# Purpose
+# Purpose / Description
 
 First, the user is prompted to enter a state and city. The computer will begin by narrowing down the list of possible restaurant locations based on the state the user entered. Then it will find the coordinates of that city and compare it the coordinates of McDonald’s restaurant locations within the state. Which ever restaurant’s coordinates match closest to the coordinates of the city the user entered, that will be labeled as the location closest to the user / the user’s city. The plan is to have the program return at least four more restaurant locations, each one further from the user than the last.
 
