@@ -1,4 +1,4 @@
-# finalProj
+# McDonald's Near Me
 
 # Project Title and purpose
 
@@ -8,7 +8,7 @@ First, the user is prompted to enter a state and city. The computer will begin b
 
 The toughest part was not being able to use RegEx. RegEx would've made this project much easier.
 
-### Most interesting piece of your code and explanation for what it does. --> See Line 90
+### Most interesting piece of your code and explanation for what it does. --> See further below in code.
 
 ```Java
 // NOTICE: Program is in Alpha. Still has some bugs.
@@ -151,7 +151,7 @@ void draw()
 
 ## Authors
 
-* Jason Thoennes 
+* Jason Thoennes & Kofi Owusu
 
 
 ## Acknowledgments
